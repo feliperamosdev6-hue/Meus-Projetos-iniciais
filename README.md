@@ -88,8 +88,3 @@ Este projeto faz parte do meu portfólio profissional e foi desenvolvido com o o
 ---
 
 
-
-
-
-4. Instale a biblioteca pandas:
-
